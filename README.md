@@ -1,16 +1,25 @@
-## Hi there 👋
+# Marcelo Pereira
 
-<!--
-**marcelobarbosapereira/marcelobarbosapereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer • Full-Stack Developer
 
-Here are some ideas to get you started:
+Building software for real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+TypeScript • React • Next.js • Supabase • PostgreSQL  
+Java • Spring • .NET • ASP.NET  
+Docker • Git • GitHub Actions
+
+## Currently building:
+⚡ Ansuz Digital
+🌱 PlanAgro
+📊 Jera
+💰 Algiz
+🥋 Dojjo
+
+## Currently Learning
+
+- Software Engineering
+- DevOps
+- Application Security
+- TDD and automated testing
